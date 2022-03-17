@@ -1,3 +1,0 @@
-QTP
-
-New name UFT!
